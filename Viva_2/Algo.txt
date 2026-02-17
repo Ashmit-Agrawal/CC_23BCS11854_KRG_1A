@@ -1,0 +1,9 @@
+Start
+sum = 0
+Loop 1-> N:
+    Loop x -> N:
+        Sum += bitrate(arr[i]^arr[j])
+
+return sum*2;
+End
+
